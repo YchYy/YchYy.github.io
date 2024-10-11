@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>博客施工</title>
+      <link href="/2024/10/11/%E5%8D%9A%E5%AE%A2%E6%96%BD%E5%B7%A5/"/>
+      <url>/2024/10/11/%E5%8D%9A%E5%AE%A2%E6%96%BD%E5%B7%A5/</url>
+      
+        <content type="html"><![CDATA[<p>跟着 <a href="www.fomal.cc">fomal</a> 大佬的教程进行博客魔改</p><p>目前 博客魔改教程总结(二) 引入iconfont自定义图标</p><div class="table-container"><table><thead><tr><th>暂未完成</th><th>说明</th></tr></thead><tbody><tr><td>评论功能</td><td></td></tr><tr><td>字体设置，字体有点太丑了</td><td></td></tr><tr><td>Pjax</td><td>暂不知道作用</td></tr><tr><td>背景图片</td><td>暂不能换，换了之后就没了</td></tr><tr><td>页脚Github徽标</td><td>后续还需修改</td></tr><tr><td>首页分类磁贴新版(店长)</td><td>弃用，暂用小冰的</td></tr><tr><td>首页分类磁贴 (小冰)</td><td>跳转功能未实现</td></tr><tr><td>自定义字体</td><td>暂未研究创建字体    字体有点难看，优先级较高</td></tr><tr><td>GitCalendar</td><td>github贡献图，暂不需要，后续看看能不能搞一个codeforces的</td></tr><tr><td>侧边栏电子时钟</td><td>未使用</td></tr><tr><td>引入iconfont自定义图标</td><td></td></tr><tr><td>文章双侧栏显示(小冰)首页分类磁贴1.0（小冰）菜单栏多色动态图标</td><td></td></tr><tr><td>Social卡片彩色图标引入</td><td></td></tr><tr><td>wowjs动画文章置顶滚动栏(店长)侧边栏图标和文字自定义</td></tr></tbody></table></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>信息竞赛常用网站使用指南</title>
       <link href="/2024/10/10/%E4%BF%A1%E6%81%AF%E7%AB%9E%E8%B5%9B%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
       <url>/2024/10/10/%E4%BF%A1%E6%81%AF%E7%AB%9E%E8%B5%9B%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</url>
