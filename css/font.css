@@ -8,3 +8,13 @@
     src: url(/font/1.woff2) format('woff2');
     /* 定义加粗样式(加粗多少) */
 }
+
+@font-face {
+    /* 为载入的字体取名字(随意) */
+    font-family: 'Fira_Code';	
+    /*保证字体文件在没有加载完成之前文字使用默认字体。*/
+    font-display: swap;
+    /* 字体文件地址(相对或者绝对路径都可以) */
+    src: url(/font/FiraCode-SemiBold.woff2) format('woff2');
+    /* 定义加粗样式(加粗多少) */
+}
