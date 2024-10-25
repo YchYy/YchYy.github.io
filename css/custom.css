@@ -265,3 +265,7 @@
   background: #3ecdf1;
   color: #f2f2f2;
 }
+
+pre, code {
+  tab-size: 4; /* 将 tab 调整为相当于 2 个空格 */
+}
