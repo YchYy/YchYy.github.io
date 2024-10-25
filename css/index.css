@@ -1772,7 +1772,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: 14px;
-  font-family: YSHST !important;
+  font-family: Fira_Code, YSHST !important;
 }
 #article-container code {
   padding: 2px 4px;
