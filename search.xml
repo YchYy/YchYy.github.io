@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>bitset优化背包</title>
+      <link href="/2024/11/09/bitset%E4%BC%98%E5%8C%96%E8%83%8C%E5%8C%85/"/>
+      <url>/2024/11/09/bitset%E4%BC%98%E5%8C%96%E8%83%8C%E5%8C%85/</url>
+      
+        <content type="html"><![CDATA[<p>对于 dp 状态，dp数组的值为 bool 类型，表示有无时，可以考虑使用 bitset 优化，时间复杂度可降低64倍。<br>例1：<a href="https://codeforces.com/contest/366/problem/C">https://codeforces.com/contest/366/problem/C</a><br>例2：<a href="https://www.luogu.com.cn/problem/U472976">https://www.luogu.com.cn/problem/U472976</a> 原题链接：<a href="https://acm.hdu.edu.cn/showproblem.php?pid=7140">https://acm.hdu.edu.cn/showproblem.php?pid=7140</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法竞赛 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> bitset </tag>
+            
+            <tag> 背包 </tag>
+            
+            <tag> 动态规划 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>jiangly算法模板</title>
+      <link href="/2024/11/07/jiangly%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+      <url>/2024/11/07/jiangly%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://www.cnblogs.com/WIDA/p/17633758.html">博客链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法竞赛 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 算法模板 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>二分图模板</title>
       <link href="/2024/10/19/%E4%BA%8C%E5%88%86%E5%9B%BE%E6%A8%A1%E6%9D%BF/"/>
       <url>/2024/10/19/%E4%BA%8C%E5%88%86%E5%9B%BE%E6%A8%A1%E6%9D%BF/</url>
@@ -20,13 +74,13 @@
       
         <tags>
             
-            <tag> 二分图 </tag>
-            
             <tag> 算法竞赛 </tag>
             
             <tag> 算法模板 </tag>
             
             <tag> 图论 </tag>
+            
+            <tag> 二分图 </tag>
             
         </tags>
       
@@ -170,13 +224,13 @@
       
         <tags>
             
+            <tag> Tarjan </tag>
+            
             <tag> 算法竞赛 </tag>
             
             <tag> 算法模板 </tag>
             
             <tag> 图论 </tag>
-            
-            <tag> Tarjan </tag>
             
         </tags>
       
